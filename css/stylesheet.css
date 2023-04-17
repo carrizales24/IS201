@@ -1,0 +1,69 @@
+.joe {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: bold;
+font-style: oblique;
+}
+.resumehead { font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 2.5rem;
+    line-height: 6.5rem;
+    letter-spacing: 0.1rem;
+    background: linear-gradient(rgba(51, 121, 251, 0.9), rgba(154, 157, 154, 0));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+            background-clip: text;
+            padding-left: 33%;
+}
+
+.menu {
+    
+}
+
+.homepage{
+    font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 300;
+    color: rgb(62, 151, 246);
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+} 
+.homepage:hover{
+    color: rgb(240, 236, 236);
+}
+.body{
+    font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    color: rgb(62, 151, 246);
+    background-color: rgb(29, 27, 27);
+
+}
+
+.pic{
+    padding-left: 45%;
+}
+.vid{
+    padding-left: 40%; 
+    border: 20px solid rgb(62, 151, 246);border-style: inset; padding: 10px;
+}
+.here{
+    font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 300;
+    color: rgb(62, 151, 246);
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+.here:hover{
+    color: azure;
+}
+.nba{
+    font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 300;
+    color: rgb(62, 151, 246);
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out; 
+}
+.nba:hover{
+    color:azure
+}
+.body2{
+    background-color: rgb(29, 27, 27);
+}
